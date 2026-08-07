@@ -1,0 +1,170 @@
+Company Name,Country / Region,Exchange,Ticker Symbol,Sector
+Apple Inc.,USA,NASDAQ,AAPL,Technology & Consumer Electronics
+Microsoft Corporation,USA,NASDAQ,MSFT,Software & Cloud Computing
+NVIDIA Corporation,USA,NASDAQ,NVDA,Semiconductors & AI Hardware
+Alphabet Inc. (Google),USA,NASDAQ,GOOGL,Internet Services & Media
+Amazon.com Inc.,USA,NASDAQ,AMZN,"E-Commerce & Cloud Computing"
+Meta Platforms,USA,NASDAQ,META,"Social Media & Advertising"
+Tesla Inc.,USA,NASDAQ,TSLA,"Electric Vehicles & Clean Energy"
+Advanced Micro Devices,USA,NASDAQ,AMD,Semiconductors & AI Hardware
+Netflix Inc.,USA,NASDAQ,NFLX,"Streaming & Entertainment"
+JPMorgan Chase & Co.,USA,NYSE,JPM,"Banking & Financial Services"
+Visa Inc.,USA,NYSE,V,Financial Technology & Payments
+Walmart Inc.,USA,NYSE,WMT,"Retail & Consumer Goods"
+Exxon Mobil Corporation,USA,NYSE,XOM,"Energy & Oil/Gas"
+Coca-Cola Company,USA,NYSE,KO,"Beverages & Consumer Goods"
+Mastercard Inc.,USA,NYSE,MA,"Financial Technology & Payments"
+Bank of America Corp,USA,NYSE,BAC,"Banking & Financial Services"
+Procter & Gamble Co.,USA,NYSE,PG,"Consumer Goods"
+Johnson & Johnson,USA,NYSE,JNJ,"Pharmaceuticals & Healthcare"
+Chevron Corporation,USA,NYSE,CVX,"Energy & Oil/Gas"
+Home Depot Inc.,USA,NYSE,HD,"Home Improvement Retail"
+Broadcom Inc.,USA,NASDAQ,AVGO,"Semiconductors & Infrastructure Software"
+Eli Lilly and Company,USA,NYSE,LLY,"Pharmaceuticals & Healthcare"
+AbbVie Inc.,USA,NYSE,ABBV,"Pharmaceuticals & Healthcare"
+Merck & Co. Inc.,USA,NYSE,MRK,"Healthcare & Pharmaceuticals"
+PepsiCo Inc.,USA,NASDAQ,AAPL,"Food, Snack & Beverages"
+Adobe Inc.,USA,NASDAQ,ADBE,"Software & Digital Media"
+Salesforce Inc.,USA,NYSE,CRM,"Enterprise Cloud Software"
+Costco Wholesale Corp.,USA,NASDAQ,COST,"Retail & Wholesale"
+Accenture plc,USA,NYSE,ACN,"IT Consulting & Services"
+AMD,USA,NASDAQ,AMD,Semiconductors
+Intel Corporation,USA,NASDAQ,INTC,Semiconductors
+Cisco Systems,USA,NASDAQ,CSCO,"Networking & Telecommunications"
+Oracle Corporation,USA,NYSE,ORCL,"Enterprise Software & Cloud"
+IBM,USA,NYSE,IBM,"Technology & Cloud Services"
+Qualcomm Inc.,USA,NASDAQ,QCOM,"Semiconductors & Mobile Technology"
+Texas Instruments,USA,NASDAQ,TXN,Semiconductors
+Intuit Inc.,USA,NASDAQ,INTU,"Financial Software"
+Advanced Auto Parts,USA,NYSE,AAP,"Automotive Retail"
+Boeing,USA,NYSE,BA,"Aerospace & Defense"
+Raytheon Technologies,USA,NYSE,RTX,"Aerospace & Defense"
+Lockheed Martin,USA,NYSE,LMT,"Aerospace & Defense"
+General Electric,USA,NYSE,GE,"Industrial Conglomerate"
+3M Company,USA,NYSE,MMM,"Industrial & Consumer Goods"
+Caterpillar Inc.,USA,NYSE,CAT,"Heavy Machinery & Construction"
+Honeywell International,USA,NYSE,HON,"Industrial Conglomerate"
+Union Pacific Corporation,USA,NYSE,UNP,Railroad Transportation
+Ford Motor Company,USA,NYSE,F,Automotive
+General Motors,USA,NYSE,GM,Automotive
+Verizon Communications,USA,NYSE,VZ,Telecommunications
+AT&T Inc.,USA,NYSE,T,Telecommunications
+T-Mobile US,USA,NASDAQ,TMUS,Telecommunications
+Walt Disney Company,USA,NYSE,DIS,"Media & Entertainment"
+Netflix,USA,NASDAQ,NFLX,Streaming
+Comcast Corporation,USA,NASDAQ,CMCSA,"Telecom & Media"
+Nike Inc.,USA,NYSE,NKE,"Apparel & Footwear"
+McDonald's Corp.,USA,NYSE,MCD,"Restaurants & Hospitality"
+Starbucks Corp.,USA,NASDAQ,SBUX,"Restaurants & Beverages"
+Target Corporation,USA,NYSE,TGT,Retail
+Lowes Companies,USA,NYSE,LOW,"Home Improvement Retail"
+Booking Holdings,USA,NASDAQ,BKNG,"Travel & Tourism"
+Uber Technologies,USA,NYSE,UBER,"Ride-Sharing & Logistics"
+Airbnb Inc.,USA,NASDAQ,ABBN,"Hospitality & Travel"
+Palantir Technologies,USA,NYSE,PLTR,"Big Data Analytics & AI"
+Snowflake Inc.,USA,NYSE,SNOW,"Cloud Data Warehousing"
+Shopify Inc.,USA,NYSE,SHOP,"E-Commerce Infrastructure"
+Spotify Technology,USA,NYSE,SPOT,"Audio Streaming"
+PayPal Holdings,USA,NASDAQ,PYPL,"Digital Payments"
+Block Inc.,USA,NYSE,SQ,"Financial Services & Fintech"
+Robinhood Markets,USA,NASDAQ,HOOD,"Online Brokerage & Fintech"
+Coinbase Global,USA,NASDAQ,COIN,"Cryptocurrency Exchange"
+Reliance Industries,India,NSE,RELIANCE.NS,"Conglomerate, Energy & Retail"
+Tata Consultancy Services,India,NSE,TCS.NS,"Information Technology Services"
+HDFC Bank,India,NSE,HDFCBANK.NS,"Banking & Financial Services"
+ICICI Bank,India,NSE,ICICIBANK.NS,"Banking & Financial Services"
+Infosys,India,NSE,INFY.NS,"Information Technology Services"
+Bharti Airtel,India,NSE,BHARTIARTL.NS,"Telecommunications"
+State Bank of India,India,NSE,SBIN.NS,"Banking & Financial Services"
+Larsen & Toubro,India,NSE,LT.NS,"Engineering & Construction"
+ITC Limited,India,NSE,ITC.NS,"FMCG & Tobacco"
+Hindustan Unilever,India,NSE,HINDUNILVR.NS,"FMCG"
+Axis Bank,India,NSE,AXISBANK.NS,"Banking & Financial Services"
+Tata Motors,India,NSE,TATAMOTORS.NS,Automotive
+Sun Pharmaceutical,India,NSE,SUNPHARMA.NS,Pharmaceuticals
+Titan Company,India,NSE,TITAN.NS,"Consumer Goods & Retail"
+Bajaj Finance,India,NSE,BAJFINANCE.NS,"Financial Services"
+Asian Paints,India,NSE,ASIANPAINT.NS,"Chemicals & Paints"
+Maruti Suzuki,India,NSE,MARUTI.NS,Automotive
+Tata Steel,India,NSE,TATASTEEL.NS,Metals & Mining
+HCL Technologies,India,NSE,HCLTECH.NS,"Information Technology Services"
+Wipro,India,NSE,WIPRO.NS,"Information Technology Services"
+NTPC Limited,India,NSE,NTPC.NS,"Power & Energy"
+Power Grid Corporation,India,NSE,POWERGRID.NS,"Power & Energy"
+Mahindra & Mahindra,India,NSE,M&M.NS,Automotive
+Adani Enterprises,India,NSE,ADANIENT.NS,"Conglomerate & Infrastructure"
+Adani Ports,India,NSE,ADANIPORTS.NS,"Ports & Logistics"
+Adani Green Energy,India,NSE,ADANIGREEN.NS,Renewable Energy
+JSW Steel,India,NSE,JSWSTEEL.NS,Metals & Mining
+Coal India,India,NSE,COALINDIA.NS,Mining & Energy
+Nestle India,India,NSE,NESTLEIND.NS,"FMCG & Food"
+Britannia Industries,India,NSE,BRITANNIA.NS,"Food & FMCG"
+Zomato,India,NSE,ZOMATO.NS,"Food Delivery & Tech"
+Paytm,India,NSE,PAYTM.NS,Fintech
+Nykaa,India,NSE,NYKAA.NS,"E-Commerce & Beauty"
+Policybazaar,India,NSE,POLICYBZR.NS,"Fintech & Insurance"
+ASML Holding N.V.,Netherlands,NASDAQ / AMS,ASML,"Semiconductor Equipment"
+SAP SE,Germany,Xetra,SAP,Enterprise Software
+Siemens AG,Germany,Xetra,SIE,"Industrial Manufacturing & Automation"
+Allianz SE,Germany,Xetra,ALV,"Insurance & Financial Services"
+Deutsche Telekom,Germany,Xetra,DTE,Telecommunications
+Mercedes-Benz Group,Germany,Xetra,MBG,Automotive
+Bayer AG,Germany,Xetra,BAYN,"Pharmaceuticals & Life Sciences"
+Adidas AG,Germany,Xetra,ADS,"Apparel & Footwear"
+BMW,Germany,Xetra,BMW,Automotive
+LVMH Moët Hennessy,France,Euronext,MC.PA,"Luxury Goods"
+Hermes International,France,Euronext,RMS.PA,"Luxury Goods"
+L'Oreal SA,France,Euronext,OR.PA,"Cosmetics & Beauty"
+TotalEnergies SE,France,Euronext,TTE.PA,"Energy & Oil/Gas"
+Schneider Electric,France,Euronext,SU.PA,"Electrical Equipment"
+Airbus SE,France,Euronext,AIR.PA,"Aerospace & Defense"
+Sanofi,France,Euronext,SAN.PA,"Pharmaceuticals & Healthcare"
+Keyence Corporation,Japan,TYO,6861.T,"Sensors & Automation"
+Sony Group Corporation,Japan,TYO,6758.T,"Electronics & Entertainment"
+Nintendo Co. Ltd.,Japan,TYO,7974.T,"Gaming & Entertainment"
+Toyota Motor Corporation,Japan,TYO / NYSE,TM,Automotive
+Mitsubishi UFJ Financial,Japan,TYO,8306.T,"Banking & Financial Services"
+SoftBank Group,Japan,TYO,9984.T,"Investment & Telecom"
+Fast Retailing (Uniqlo),Japan,TYO,9983.T,"Apparel Retail"
+Nintendo,Japan,TYO,7974.T,Gaming
+Taiwan Semiconductor Manufacturing (TSMC),Taiwan,NYSE,TSM,"Semiconductors & Foundry"
+Hon Hai Precision (Foxconn),Taiwan,TWSE,2317.TW,"Electronics Manufacturing"
+MediaTek,Taiwan,TWSE,2454.TW,Semiconductors
+Samsung Electronics,South Korea,KRX,005930.KS,"Consumer Electronics & Semiconductors"
+SK Hynix,South Korea,KRX,000660.KS,Semiconductors
+Hyundai Motor,South Korea,KRX,005380.KS,Automotive
+LG Energy Solution,South Korea,KRX,373220.KS,"EV Batteries & Energy"
+Alibaba Group,China,NYSE / HKEX,BABA,"E-Commerce & Cloud Computing"
+Tencent Holdings,China,HKEX,0700.HK,"Internet Services & Gaming"
+BYD Company,China,HKEX,1211.HK,"Electric Vehicles & Batteries"
+Meituan,China,HKEX,3690.HK,"E-Commerce & Services"
+Xiaomi Corporation,China,HKEX,1810.HK,"Consumer Electronics"
+Baidu Inc.,China,NASDAQ / HKEX,BIDU,"Internet Search & AI"
+JD.com,China,NASDAQ / HKEX,JD,"E-Commerce & Retail"
+NetEase,China,NASDAQ / HKEX,NTES,"Gaming & Internet"
+Ping An Insurance,China,HKEX,2318.HK,"Insurance & Financial Services"
+CNOOC Limited,China,HKEX,0883.HK,"Energy & Oil/Gas"
+DBS Group Holdings,Singapore,SGX,D05.SI,"Banking & Financial Services"
+Singapore Telecommunications (Singtel),Singapore,SGX,Z74.SI,Telecommunications
+Wilmar International,Singapore,SGX,F34.SI,"Agribusiness"
+BHP Group,Australia,ASX,BHP,Mining & Metals
+Commonwealth Bank of Australia,Australia,ASX,CBA,"Banking & Financial Services"
+CSL Limited,Australia,ASX,CSL,"Biotechnology & Healthcare"
+National Australia Bank,Australia,ASX,NAB,"Banking & Financial Services"
+Westpac Banking Corp,Australia,ASX,WBC,"Banking & Financial Services"
+Rio Tinto,Australia,ASX,RIO,Mining & Metals
+Fortescue Metals Group,Australia,ASX,FMG,Mining
+Telstra Group,Australia,ASX,TLS,Telecommunications
+Woolworths Group,Australia,ASX,WOW,"Retail & Supermarkets"
+Naspers,South Africa,JSE,NPN.SJ,"Internet & Technology Investment"
+FirstRand,South Africa,JSE,FSR.SJ,"Banking & Financial Services"
+Standard Bank Group,South Africa,JSE,SBK.SJ,"Financial Services"
+Petrobras,Brazil,B3,PETR4.SA,"Energy & Oil/Gas"
+Vale S.A.,Brazil,B3,VALE3.SA,Mining & Metals
+Itau Unibanco,Brazil,B3,ITUB4.SA,"Banking & Financial Services"
+Ambev,Brazil,B3,ABEV3.SA,"Beverages & Brewing"
+MercadoLibre,Argentina / USA,NASDAQ,MELI,"E-Commerce & Fintech"
+Grupo Mexico,Mexico,BMV,GMEXICOB.MX,Mining & Infrastructure
+Walmex,Mexico,BMV,WALMEX.MX,Retail
+Saudi Aramco,Saudi Arabia,TADAWUL,2222.SR,"Energy & Oil/Gas"
+Al Rajhi Bank,Saudi Arabia,TADAWUL,1120.SR,"Banking & Financial Services"

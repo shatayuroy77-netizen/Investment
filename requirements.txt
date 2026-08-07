@@ -1,0 +1,8 @@
+streamlit
+yfinance
+pandas
+fpdf
+python-docx
+google-genai
+finnhub-python
+python-dotenv
