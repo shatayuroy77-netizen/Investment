@@ -98,7 +98,7 @@ st.markdown(
     """
     <div class="hero-box">
         <div class="hero-title">
-            AI Financial Research Workspace 📈
+            AI Investment Research Workspace 📈
         </div>
         <div class="hero-subtitle">
             Your intelligent investment companion to learn, analyze business models, 
